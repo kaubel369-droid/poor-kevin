@@ -1,0 +1,26 @@
+# Node
+node_modules/
+dist/
+build/
+out/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Remotion
+.remotion/
+
+# Antigravity/Agent artifacts
+.gemini/
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
+
+# Large files / Media (Optional to ignore if too big, but we want the frames)
+# *.mp4
